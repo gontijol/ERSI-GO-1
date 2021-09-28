@@ -3177,10 +3177,11 @@ input[type="button"].btn-block {
 
 .dropdown-menu.show {
   display: block;
+  visibility: visible;
 }
 
 .dropdown-header {
-  display: block;
+  display: show;
   padding: 0.5rem 1.5rem;
   margin-bottom: 0;
   font-size: 0.875rem;
