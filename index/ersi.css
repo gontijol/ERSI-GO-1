@@ -94,9 +94,6 @@ body {
     display: flex;
     flex-direction: column;
 }
-.flex-column-direction-2 {
-
-}
 
 .first {
     margin-top: 102px;
@@ -350,7 +347,7 @@ body {
 }
 
 .rodape .container {
-    padding-top: 56px;
+    padding-top: 30px;
 }
 
 .rodape-list-title {
